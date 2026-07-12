@@ -1,0 +1,16 @@
+# Entorno virtual
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Cookies exportadas del navegador (credenciales — nunca versionar)
+cookies.txt
+
+# Salidas de prueba
+*.mp4
+*.mp3
