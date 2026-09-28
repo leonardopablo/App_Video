@@ -1,0 +1,4 @@
+streamlit>=1.57,<2
+streamlit-cropper>=0.3.1,<0.4
+Pillow>=12.2,<13
+yt-dlp>=2026.7.4
